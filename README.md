@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
 
-- 👨‍💻 All of my projects are available at [[utkarshkatiyar.netlify.app/](https://utkarshkatiyar-portfolio.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[utkarshkatiyar-portfolio.vercel.app/](https://utkarshkatiyar-portfolio.vercel.app/)]
 
 - 📝 I regularly write articles on [https://medium.com/@utkarsh-katiyar](https://medium.com/@utkarsh-katiyar)
 
