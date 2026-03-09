@@ -23,8 +23,6 @@ Senior Software Engineer · 7+ years · React · Next.JS · AI/RAG · M.Tech - B
 
 Senior frontend engineer with 7+ years building performant, scalable web applications. Specialize in **React** and **Next**, with growing experience in **AI/RAG**. I write about web dev on Medium and Linkedin.
 
-Currently deep-diving into **Next.js App Router** and **GraphQL**.
-
 When not coding — playing Clash of Clans 🎮
 
 ---
