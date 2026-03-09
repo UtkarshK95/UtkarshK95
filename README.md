@@ -11,6 +11,12 @@ Senior Software Engineer · 7+ years · React · Next.JS · AI/RAG · M.Tech - B
   <a href="https://personal-portfolio-uk.vercel.app/">Portfolio</a>
 </p>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/utkarshk95">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" />
+  </a>
+</p>
+
 ---
 
 ### About
