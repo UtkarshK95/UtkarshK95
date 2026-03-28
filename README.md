@@ -33,9 +33,9 @@ When not coding — playing Clash of Clans 🎮
 **Backend** · NodeJS, REST APIs  
 **AI/ML** · RAG Pipelines, LLM Integration, LangChain
 **Database** · MongoDB, PostgreSQL
-**Cloud & DevOps** · AWS, Docker, Github ACtions  
+**Cloud & DevOps** · AWS, Docker, Github Actions  
 **Testing** · Jest, Cypress  
-**CMS** · Kentico,  
+**CMS** · Kentico, Sanity
 
 ---
 
